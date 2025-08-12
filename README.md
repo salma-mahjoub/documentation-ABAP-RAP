@@ -9,14 +9,14 @@
 
 ## 📂 Contenu du dépôt
 
-- **Siryos_Guide_ABAP_RAP_SalmaMahjoub_V1.docx.docx** : Documentation technique complète (400+ pages).
+- **Siryos_Guide_ABAP_RAP_SalmaMahjoub_V1.pdf** : Documentation technique complète (400+ pages).
 
 ---
 
 ## 📥 Téléchargement
 
 Vous pouvez consulter ou télécharger la documentation complète ici :  
-[📄 Télécharger la documentation complète (PDF)](./Siryos_Guide_ABAP_RAP_SalmaMahjoub_V1.docx.docx)
+[📄 Télécharger la documentation complète (PDF)](./Siryos_Guide_ABAP_RAP_SalmaMahjoub_V1.pdf)
 
 ---
 
